@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.forec.cn/superjp/sitemap.xml
+Sitemap: https://www.forec.cn/gilajp/sitemap.xml
+Sitemap: https://www.forec.cn/gojekpot/sitemap.xml
+Sitemap: https://www.forec.cn/winstrike69/sitemap.xml
+Sitemap: https://www.forec.cn/slotgacor/sitemap.xml
+Sitemap: https://www.forec.cn/slotzeus/sitemap.xml
+Sitemap: https://www.forec.cn/kaptenjackpot/sitemap.xml
+Sitemap: https://www.forec.cn/boosterjp/sitemap.xml
+Sitemap: https://www.forec.cn/kerajaanslot/sitemap.xml
+Sitemap: https://www.forec.cn/pakong86/sitemap.xml
+Sitemap: https://www.forec.cn/viral88/sitemap.xml
+Sitemap: https://www.forec.cn/clan4d/sitemap.xml
+Sitemap: https://www.forec.cn/dinamit4d/sitemap.xml
+Sitemap: https://www.forec.cn/elang212/sitemap.xml
+Sitemap: https://www.forec.cn/gori77/sitemap.xml
+Sitemap: https://www.forec.cn/viral4d/sitemap.xml
+Sitemap: https://www.forec.cn/playground88/sitemap.xml
